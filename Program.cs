@@ -2,3 +2,8 @@
 using System;
 
 Console.WriteLine("Hello, World!");
+
+int numberOne = 5; 
+int numberTwo = 10; 
+
+int result = numberOne + numberTwo; 
